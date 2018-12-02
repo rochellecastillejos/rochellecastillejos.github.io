@@ -1,12 +1,32 @@
-title: Rochelle Castillejos
+name: Rochelle Castillejos
 email: hi@rochellecastillejos.com
 description: Thoughts on hotel and revenue management.
+meta_description: Thoughts on hotel and revenue management.
 url: https://rochellecastillejos.com
-google_analytics: UA-113731422-1
+google_analytics: UA-130188897-1
 author:
   name: Rochelle Castillejos
-  twitter: rocasti75
-  picture: /public/rochelle-castillejos.jpg
+  twitter: rocasti76
+  picture: /assets/images/rochelle-castillejos.jpg
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
+
+# Authors
+authors:
+  rochelle:
+    name: Rochelle Castillejos
+    display_name: Rochelle Castillejos
+    gravatar: 414c487a9537b84ffedcde90524b62af
+    email: hi@rochellecastillejos.com
+    web: https://www.rochellecastillejos.com
+    twitter: https://twitter.com/rocasti76
+    linkedin: https://www.linkedin.com/in/rochellecastillejos/
+    description: |
+      I have over 20 years of industry experience in the fields of revenue management, sales and marketing, and hotel distribution.
+
+      I enjoy writing articles based on my experiences in hospitality management, mostly focusing on implementing an effective revenue management culture in hotel operations. I have also created a revenue management workshop, which was very well received by hundreds of people who attended it.
+
+      Throughout my career, I oversaw more than 60 hotels in the regions of Americas, Europe, Mediterranean, Asia Pacific and Middle East.
 
 # SEO
 twitter:
@@ -15,16 +35,16 @@ twitter:
 social:
   links:
     - https://twitter.com/rocasti76
-google_site_verification: ...
+    - https://www.linkedin.com/in/rochellecastillejos/
+google_site_verification: Jn3YFM_Hws9_Xx9Stv3WBaNB_EB5v5m55JnPmI2IOFc
 defaults:
   - scope:
       path: ""
     values:
-      image: /public/rochelle-castillejos.jpg
+      image: /assets/images/rochelle-castillejos.jpg
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
 paginate: 5
 permalink: /:title/
 
