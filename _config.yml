@@ -1,0 +1,44 @@
+title: Rochelle Castillejos
+email: hi@rochellecastillejos.com
+description: Thoughts on hotel and revenue management.
+url: https://rochellecastillejos.com
+google_analytics: UA-113731422-1
+author:
+  name: Rochelle Castillejos
+  twitter: rocasti75
+  picture: /public/rochelle-castillejos.jpg
+
+# SEO
+twitter:
+  username: rocasti76
+  card: summary
+social:
+  links:
+    - https://twitter.com/rocasti76
+google_site_verification: ...
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /public/rochelle-castillejos.jpg
+
+# Build settings
+markdown: kramdown
+remote_theme: broccolini/swiss
+paginate: 5
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
