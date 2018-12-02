@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Rochelle
+title: About
 ---
 
 <img src="{{ site.author.picture }}" alt="Rochelle Castillejos" class="owner-photo">
