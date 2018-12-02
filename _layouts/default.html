@@ -6,7 +6,7 @@
 
   <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-  <title>{{ page.title }} | {{site.name}}</title>
+  <title>{{ site.name }} | {{ page.title }}</title>
 
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
@@ -24,6 +24,12 @@
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+
+  <!-- Atom Feed -->
+  {% feed_meta %}
+
+  <!-- SEO -->
+  {% seo title=false %}
 
 </head>
 
