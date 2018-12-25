@@ -1,0 +1,13 @@
+---
+layout: post
+title: Why You Should Join Consortia Programs
+image: assets/images/why-you-should-join-consortia-programs.jpg
+author: rochelle
+---
+
+Most hotels I have handled, and am currently handling have always avoided joining consortia programs. Stating that participation fees are expensive and that they do not see its potential for their market. I do believe that hotels should not exclude and give up on this segment. Indeed, joining specific programs can be expensive but they are worth the investment.
+Most hotels are happy with the trickle production coming from the different consortia. They believe that they do not need to take part in the programs as the production will increase over time. The thing is, as long as you are not part of their program the production will remain as it is, just a few room nights here and there. Joining the full program will give you the opportunity [to be booked by the thousands of agents](TK) that these consortia have under their wing. They do not only book their special rate with your hotel but they also book all your publicly available rates. For example [advance purchase rate](TK), weekend rate, summer rate, special offer rates.
+
+One of the hotels I handled before was not interested in joining any of the programs. They claimed that it never really produced for them. I explained that being part of the program for just one year would not have been enough for the hotel to be visible to all the consortia agents. They had not even taken part in any of the consortia marketing campaigns to increase their visibility. It is an investment that you need to grow yourself by being part of it. I encouraged them to partake on the different marketing campaigns to help boost their visibility. After a few months they started to see a steady increase in the production of this segment. They were very happy with the results and are now keen in making sure that they join marketing campaigns where they can.
+
+Hotels need to understand which consortia would benefit them most. They can do this by [understanding their feeder markets](TK). Finding out which ones are their top feeder markets and which consortia can help them gain production from these markets. Hotels need to learn the strength of each consortia and invest in the right ones, those that would give them the needed support. Do not forget that there are a [number of programs that you can join for free](TK) so do not miss on this opportunity as well. Lastly, it is also very important to highlight that consortia is a high yielding segment. Focusing your efforts on this segment would give you the right kind of revenue.

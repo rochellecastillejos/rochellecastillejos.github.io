@@ -1,0 +1,14 @@
+---
+layout: post
+title: Common Mistakes Hotels Make About Market Segmentation
+image: assets/images/common-mistakes-hotels-make-about-market-segmentation.jpg
+author: rochelle
+---
+
+I have been in a number of disappointing situations that prove revenue management still has a long way to go in educating the hotel industry. The market is ever changing, there is no such thing as a mass market anymore. Opportunities in revenue management can be very fleeting at times so people need to get out of their comfort zones, usual practices, and traditional know-hows, and instill a [revenue management culture](TK) today.
+
+An in-depth understanding of the different elements of revenue management is required to be able to apply it effectively in your hotel. To start having a healthy revenue management culture, it is important to first establish the correct market segments. I remember a meeting with one hotel, who asked me for advice on how to be better in their demand forecasting. When they showed me their market segmentation I was surprised to see “GDS” as one of their segments. I thought it was a mistake or maybe even a typo, but the revenue manager said that there was no mistake, “GDS” was indeed a segment for them. They would not be able to get a proper demand forecast if they considered “GDS” as a segment when actual market segments like corporate, wholesaler, consortia, and groups were booking via this channel[^1]. There are many implications of inaccurate market segmentation, many of which are frequently overlooked within the hotel industry. Some of these can even affect other elements of revenue management. Having the wrong market segments can heavily hamper your forecast making it so much more challenging. It can also lead to ineffective pricing strategies, as you will not fully understand the pricing potential of your segments, you can easily over-price or under-price them. These alone can have a negative long term effect on your overall strategy if not corrected urgently.
+
+Recognizing and accepting that you have a problem is the first step, but acting on it fast is the important thing. This was a gloomy realization during one of my meetings. I was initially pleased that the hotel I was talking to fully admitted that they did not have the proper market segments but then they said that they would wait until the end of the year to remedy this mistake. It was only the first quarter of the year! Their excuse was that it was difficult to change the existing setup in the middle of the year and it would be confusing for their reports. For me, it is simple logic. Would you rather lose revenue for the next three quarters or go through the pain now and increase your revenue with a proper strategy? The answer should be clear.
+
+[^1]: HOSPA Revenue Management eBook, Contributors: Debra Adams, Cathy Burgess, Judith Kelly, Kate Ringham, Kate Varini. Editor: Peter A. Jones, p 35-36.

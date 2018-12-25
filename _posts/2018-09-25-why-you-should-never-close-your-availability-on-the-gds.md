@@ -1,0 +1,14 @@
+---
+layout: post
+title: Why You Should Never Close Your Availability on the GDS
+image: assets/images/why-you-should-never-close-your-availability-on-the-gds.jpg
+author: rochelle
+---
+
+Hotels always aim to be 100% occupied during peak seasons and try to get the most revenue out of each room. They favor either their website, or better yet, direct bookings to give them the highest rate possible. They also close their availability on the GDS (or Global Distribution System). This is to avoid low rate bookings coming from this channel including [reservations coming from the corporate segment](TK). GDS is the channel where thousands of travel agencies course their reservations and book all hotel rate offers. For example, Best Available Rates, [Advance Purchase Rates](TK), [Corporate Rates](TK), etc.
+
+I have always discouraged my hotels from closing their availability on the GDS during peak seasons, high occupancy dates, or for long periods of time. I remember, one of the hotels I handled before complained that their production via this channel was always very poor. I did a thorough review of their production from previous years and how they managed their availability, this hotel had less than a 100-room inventory. To my astonishment, I found out that whenever they reached 70% occupancy they would always close their GDS channel but would still be open on OTA channels. They were rarely visible on the GDS and they were favoring the most expensive channel, this had been their practice for a very long time. No wonder they barely had any production on this channel, agents could hardly see them.
+
+Not effectively managing your GDS channel can pose a great revenue loss to your hotel and can even further increase your cost. One such activity is closing your availability on the GDS channel during peak seasons, high occupancy dates, and for long periods of time. This can lead you to a very big possibility of losing out on future reservations. When there is no availability on this channel, agents will not see you. Your hotel will not show-up whenever an agent searches for hotels in your particular destination. Especially if you close it for a long period of time, agents might think that your hotel is no longer operating or there is no such thing as “ABC” hotel. On this channel, no availability means no existence.
+
+To avoid losing out on any revenue opportunity on this channel, you can apply overbooking strategies during high occupancy dates and peak seasons. Another strategy you can implement is to open your highest room type and set the inventory to one, and then apply the highest rate. This way you can have an edge from your competitors during peak dates as your hotel will be the only one visible whenever an agent does a destination search.

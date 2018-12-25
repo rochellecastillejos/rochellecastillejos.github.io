@@ -1,0 +1,20 @@
+---
+layout: post
+title: How You Might Be Losing Tens of Thousands of Dollars by not Loading Accepted RFPs Properly
+image: assets/images/how-you-might-be-losing-tens-of-thousands-of-dollars-by-not-loading-accepted-rfps-properly.jpg
+author: rochelle
+---
+
+There is always such a great sense of triumph whenever you [get accepted to corporate global programs](TK). You reminisce the hardships you have gone through qualifying all the accounts that you deemed would be [high yielding clients](TK). Then the obstacles you overcame for these accounts to let you participate in their program and the painstaking moments when you had completed and submitted every bid hoping they would be amenable to your offer. Then finally, you get the most awaited response, “Congratulations! Your hotel has been selected for inclusion in the ABC Company global program.”
+
+It was the middle of the [RFP season](TK) when I had a meeting with one of my hotels that flagged me about an issue with accounts that have accepted them. During the meeting, they informed me that a lot of their clients have not been producing and were frequently complaining that their rates were not visible on the GDS channel. The RFP platform that the hotel used was interfaced with their CRS (Central Reservation System). This means that every time they got an acceptance on the RFP platform, the rates got automatically loaded on their CRS. This seamless connection allowed the hotel to [sell on the GDS channel immediately](TK). This is provided they had submitted all their bids through their RFP platform. The hotel sales team provided me with the list of all the RFP accepted accounts and when I checked their CRS, my suspicion was confirmed. All the accounts on the list were not submitted from their RFP platform. Upon further investigation I found out that these accounts were not loaded on their CRS. The hotel must have lost quite an amount of revenue as they have not loaded any of the accounts for months.
+Most hotels do not have a seamless connection between their RFP platforms and their CRS. Typically, a hotel either has a separate RFP platform or completed or submitted their bids on different RFP submission channels or even manual RFPs. With manual RFPs, the hotel completes their information from a form given directly by clients. Hotels need to be very careful in keeping track of all their submissions, especially their acceptances.
+
+When a hotel gets accepted, they need to make sure that they do the following actions so that these accounts are able to book their properties:
+
+1. Once acceptance notification has been accepted, the hotel needs to go back to the RFP submission channel and make sure to get the rate loading instructions from the company, if it is not included on the sent notification. Rate loading instructions will consist of the clients RAC (Rate Access Code), GDS used (e.g. Galileo), and PCCs (Pseudo City Codes).
+1. The hotel then needs to load the final rates that were accepted on their CRS.
+1. After rate load is complete, the hotel then needs to send the rate loading instructions to their CRS provider in order for them to do the necessary mapping of the loaded rates.
+1. Finally, the hotel should request a GDS screenshot from their CRS provider, to see that loaded rates are now visible and bookable to their clients.
+
+Do not waste all the effort you have invested in winning RFPs by failing to properly set up these accounts in your system. Make sure that you monitor these steps from beginning until end. Of course, follow through with maintaining your rapport with these clients by delighting them. This will definitely increase your chance to be included in the solicitation for the next RFP season.

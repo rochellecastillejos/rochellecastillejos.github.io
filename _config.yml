@@ -46,7 +46,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 6
 permalink: /:title/
 
 plugins:

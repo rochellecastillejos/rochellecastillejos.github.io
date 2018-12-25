@@ -1,0 +1,18 @@
+---
+layout: post
+title: How to Write Room Descriptions
+image: assets/images/how-to-write-room-descriptions.jpg
+author: rochelle
+---
+
+Hotels are always thinking of different ways to sell various offers and packages to catch the interest of targeted guests, but at the end of the day your competitors will eventually do the same. Hotels are doing loads of innovative things to be ahead of their competitive set in giving guests a memorable and delightful stay, it could be a unique facility, luxurious room amenity, exclusive service, etc.
+
+Every time I visit a hotel for the first time, I always make it a point to do a [complete site inspection of their whole facility](TK) and most especially of all their room types. I make sure that I have a printed copy of the full room description taken from their central reservation system to have it compared to the actual room. In the past, I have always been surprised that after all their efforts in making their hotel as unique as possible, they would normally forget to highlight these facts on the full room description which would be loaded on all channels, e.g. GDS, [booking engine](TK), [OTA](TK). There was a hotel that had free breakfast included on a specific high room type, and on the room description they opted to put fruit basket instead. Another hotel had a “laptop safe” but they only entered “safe”, this would have been very interesting for most business professionals and even the general public since most travelers these days own a laptop. Some of them had “free Wi-Fi in the room” but they have chosen to mention “free daily newspaper”. One hotel did not even mention that their base room type included a kitchenette which would have been a high seller for long staying guests.
+
+It would never hurt to review your room description. Most hotels tend to focus on creating promos and packages to sell the rooms, but overlook [the importance of letting the guests know what is actually in the rooms](TK). In most of the hotels I checked, room descriptions were loaded when the hotel was newly built and no one had amended them even after a number of refurbishments had happened.
+
+It is also important to note that you are selling to different channels and your descriptions should be reflected in a way that is proper to the specific channel. I have witnessed so many hotels that have the same room descriptions on their GDS and their booking engine. You should always remember that GDSs are viewed by travel agencies and booking engines are viewed by guests visiting your website. I do not think your guests would appreciate to see a room description the way a regular agent would like to see it, e.g. 44SQM-KING-CITYVIEW/AC-WIFI-TRANSFERS. It is written that way on GDSs, since they limit the number of characters that you can load but your booking engine gives you more opportunity to properly describe what you have in your rooms.
+
+Also, for hotels working with “call centers” you can have the chance to offer incentives to these agents via the room descriptions as well, e.g. “Book 50 rooms until end of the year and get a 3-night stay”, “Book 10 rooms and get a EUR 500 eBay voucher”, etc. You may choose to do these only during your need periods.
+
+Hotels need to realize that there could be instances that when agents or guests are looking for an accommodation in your area, you and your competitors could be selling a room offer or a package with the exact or similar price. All things being equal or similar, e.g. location, hotel category, package inclusions; it could just boil down to what it is in your room that can make the stay truly memorable, highly convenient, and exquisitely delightful.
