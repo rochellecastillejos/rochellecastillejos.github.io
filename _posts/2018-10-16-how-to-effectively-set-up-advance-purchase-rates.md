@@ -14,4 +14,4 @@ The major factor that a hotel needs to consider when creating this rate plan is 
 
 You can keep changing the setup depending on your BAR and of course the season. As long as one of the restrictions is higher than how your BAR is being bought, either the “lead days” or the “length of stay”. You can even close the Advance Purchase Rate during peak season so you can maximize the yield you can get. You can even increase the discount during off peak or depressed seasons. By setting up your Advance Purchase Rate above how your BAR is being bought, you can avoid stealing your actual BAR production and avoid cutting your revenue.
 
-And of course it goes without saying that you should properly [promote this rate on your website](TK).
+And of course it goes without saying that you should properly [promote this rate on your website](https://rochellecastillejos.com/three-common-mistakes-hotels-make-part-1-of-3/).

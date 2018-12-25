@@ -6,7 +6,7 @@ author: rochelle
 ---
 
 Do your feelings get hurt when you read one of these on TripAdvisor? Nowadays, there are many people writing negative reviews, hiding behind the anonymity of the internet, not even providing constructive criticism, and you might be feeling powerless against all that.
-Even more, all these things hurt your reputation immensely. According to the [TripBarometer survey by TripAdvisor](TK), “93% of travelers worldwide say their booking decisions are impacted by online reviews.”
+Even more, all these things hurt your reputation immensely. According to the TripBarometer survey by TripAdvisor, “93% of travelers worldwide say their booking decisions are impacted by online reviews.”
 
 I remember an audit that I did for a client. I was surprised to find out that they had not submitted a single response to any of the feedback that guests made on different travel sites. I urgently flagged the general manager about this and I was informed that they were already handling the situation. Unfortunately, soon after that, we had to separate our ways, and they chose to ignore my comments and do nothing about the negative reviews. You need to make sure that you are not making the same mistake.
 
